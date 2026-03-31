@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+    background: #0f172a;
+    color: white;
+    text-align: center;
+}
+
+.weather-app {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+}
+
+.hidden {
+    display: none;
+}
+
+.error {
+    color: red;
+}
+
+li {
+    cursor: pointer;
+}

@@ -114,12 +114,4 @@ Get your API key from: https://openweathermap.org/api
 
 ---
 
-## 🙌 Acknowledgements
-- OpenWeatherMap API
-- JSONPlaceholder (for practice)
 
----
-
-## 👤 Author
-Your Name  
-GitHub: https://github.com/your-username
